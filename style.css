@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  .hero {
+    background-image: url('https://miyalaser.com/cdn/shop/articles/MIYA-laser_show-blog-banner-img-_3.jpg?v=1726740201'); /* Ganti dengan gambar hero sesungguhnya */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+  }
+  .hero h1 {
+    font-size: 4rem;
+    font-weight: bold;
+  }
+  .hero p {
+    font-size: 1.5rem;
+  }
+  .event-info h2 {
+    color: #ff6347;
+  }
+  .schedule .card {
+    margin: 15px 0;
+  }
+  .schedule .card img {
+    height: 200px;
+    object-fit: cover;
+  }
+  .tickets img {
+    max-width: 100%;
+    height: auto;
+  }
+  .footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
